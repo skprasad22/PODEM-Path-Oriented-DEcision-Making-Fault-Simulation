@@ -1,0 +1,32 @@
+﻿Build started 12-23-2015 22:39:31.
+     1>Project "G:\Google Drive\Programs\Microsoft Visual Studio\6140\PODEM\PODEM.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(148): warning C4018: '<=' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(160): warning C4018: '<=' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(185): warning C4018: '<=' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(215): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(221): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(267): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(274): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(300): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(310): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(323): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(348): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(400): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(436): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(455): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(694): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\google drive\programs\microsoft visual studio\6140\podem\source.cpp(700): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Google Drive\Programs\Microsoft Visual Studio\6140\PODEM\Debug\PODEM.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Google Drive\Programs\Microsoft Visual Studio\6140\PODEM\Debug\PODEM.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Google Drive\Programs\Microsoft Visual Studio\6140\PODEM\Debug\PODEM.lib" /MACHINE:X86 Debug\Source.obj
+         PODEM.vcxproj -> G:\Google Drive\Programs\Microsoft Visual Studio\6140\PODEM\Debug\PODEM.exe
+     1>Done Building Project "G:\Google Drive\Programs\Microsoft Visual Studio\6140\PODEM\PODEM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.84
